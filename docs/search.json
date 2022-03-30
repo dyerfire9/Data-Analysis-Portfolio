@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-30T15:18:46-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Muhammad Abdul Mannan",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Stats Portfolio\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Home\r\n          Projects\r\n          Resume\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Muhammad Abdul Mannan\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Website\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Github\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bio\r\n            Abdul Mannan is a 3rd year Computer & Statistical Sciences student at the University of Toronto. He is really passionate about learning new concepts related to computers & statistics. He frequently provides freelance Web Development, Graphic Design and Computer Building services. One of his favorite things to do in his leisure time is to Bake and Paint.\r\n            \r\n            \r\n            Education\r\n            Computer Science & Statistics | University of Toronto | 2020 - 2024\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Muhammad Abdul Mannan\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Website\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Github\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              Abdul Mannan is a 3rd year Computer & Statistical Sciences student at the University of Toronto. He is really passionate about learning new concepts related to computers & statistics. He frequently provides freelance Web Development, Graphic Design and Computer Building services. One of his favorite things to do in his leisure time is to Bake and Paint.\r\n              \r\n              \r\n              Education\r\n              Computer Science & Statistics | University of Toronto | 2020 - 2024\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-03-30T15:18:46-04:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "description": "A compilation of various statistical Projects I have done\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill. - There are\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-30T15:18:46-04:00"
+    },
+    {
+      "path": "resume.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-30T15:18:47-04:00"
+    }
+  ],
+  "collections": []
+}

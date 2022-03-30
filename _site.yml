@@ -1,0 +1,22 @@
+name: "Abdul Mannan"
+title: "Stats Portfolio"
+description: |
+  A website whcih displays my statistics projects
+output_dir: "docs"
+navbar:
+  left:
+    - icon: fa fa-github
+      href: https://github.com/dyerfire9
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/abdulmannancomp/
+    - icon: fa fa-envelope
+      href: mailto:abdulmannancomp@gmail.com
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Resume"  
+      href: documents/resume.pdf
+output: distill::distill_article
+site: distill::distill_website
