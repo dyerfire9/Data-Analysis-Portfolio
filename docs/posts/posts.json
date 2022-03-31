@@ -1,0 +1,46 @@
+[
+  {
+    "path": "posts/2022-03-30-project-2/",
+    "title": "Regression Analysis About Engines & CO2 Emissions",
+    "description": "This analysis explores the relationship between Car Engines and CO2 Emissions \nthrough the utilization of Exploratory Data & Regression Analysis and employs\ntechniques such as t-tests, ANOVA and ANCOVA tests, partial F-tests and model\nselection and validation techniques.",
+    "author": [
+      {
+        "name": "Abdul Mannan",
+        "url": {
+          "http://individual.utoronto.ca/abdulmannan/": {}
+        }
+      }
+    ],
+    "date": "2021-12-05",
+    "categories": [
+      "Environment",
+      "Regression Analysis"
+    ],
+    "contents": "\r\n\r\nClick here to view the full article\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-31T00:59:00-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-03-30-project-1/",
+    "title": "Statistical Analysis About Diabetes, Sleep and Weight",
+    "description": "This analysis explores the relationship between Diabetes Sleep and Weight\nthrough the utilization of Exploratory Data Analysis and Linear Regression\nand employs techniques such as Confidence Intervals, Model Fitting, Maximum\nLikelihood Estimation, Bayesian Estimates and Hypothesis Testing techniques.",
+    "author": [
+      {
+        "name": "Abdul Mannan",
+        "url": {
+          "http://individual.utoronto.ca/abdulmannan/": {}
+        }
+      }
+    ],
+    "date": "2021-04-30",
+    "categories": [
+      "Health",
+      "Regression Analysis"
+    ],
+    "contents": "\r\n\r\nClick here to view the full article\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-31T00:58:51-04:00",
+    "input_file": {}
+  }
+]
