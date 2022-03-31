@@ -1,0 +1,28 @@
+---
+title: "Statistical Analysis About Diabetes, Sleep and Weight"
+description: |
+  This analysis explores the relationship between Diabetes Sleep and Weight
+  through the utilization of Exploratory Data Analysis and Linear Regression
+  and employs techniques such as Confidence Intervals, Model Fitting, Maximum
+  Likelihood Estimation, Bayesian Estimates and Hypothesis Testing techniques.
+author:
+  - name: Abdul Mannan
+    url: {http://individual.utoronto.ca/abdulmannan/}
+date: 2021-04-30
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Health
+  - Regression Analysis
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+<center style="color:#5A59A3">
+## [Click here to view the full article](https://github.com/dyerfire9/Diabetes-Sleep-and-Weight-Statistical-Analysis)
+</center>
+
+
