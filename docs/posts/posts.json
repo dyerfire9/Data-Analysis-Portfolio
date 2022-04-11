@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2022-04-11-project-3/",
+    "title": "Marketing and Product Considerations for MINGAR",
+    "description": "A statistical analysis project for a company that is facing issues with their\nproduct. This is simulated project, where our consultancy, The Outliers was\napproached by a company, MINGAR and they wanted to gain insight regarding\ntheir current customer and some issues with their products. In this project,\nthe analysis involved t-tests, various data wrangling techniques, \nand generalized linear and mixed models.",
+    "author": [
+      {
+        "name": "Abdul Mannan",
+        "url": {
+          "http://individual.utoronto.ca/abdulmannan/": {}
+        }
+      }
+    ],
+    "date": "2022-04-11",
+    "categories": [
+      "Fitness",
+      "Health",
+      "Generalized Linear Modeling"
+    ],
+    "contents": "\r\n\r\nClick\r\nhere to view the full article\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-04-11T17:05:17-04:00",
+    "input_file": "project-3.knit.md"
+  },
+  {
     "path": "posts/2022-03-30-project-2/",
     "title": "Regression Analysis About Engines & CO2 Emissions",
     "description": "This analysis explores the relationship between Car Engines and CO2 Emissions \nthrough the utilization of Exploratory Data & Regression Analysis and employs\ntechniques such as t-tests, ANOVA and ANCOVA tests, partial F-tests and model\nselection and validation techniques.",

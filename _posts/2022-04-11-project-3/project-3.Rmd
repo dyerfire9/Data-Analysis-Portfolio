@@ -6,7 +6,7 @@ description: |
   approached by a company, MINGAR and they wanted to gain insight regarding
   their current customer and some issues with their products. In this project,
   the analysis involved t-tests, various data wrangling techniques, 
-  and generalized linaer and mixed models. 
+  and generalized linear and mixed models. 
 author:
   - name: Abdul Mannan
     url: {http://individual.utoronto.ca/abdulmannan/}
@@ -15,8 +15,9 @@ output:
   distill::distill_article:
     self_contained: false
 categories:
-  - Environment
-  - Regression Analysis
+  - Fitness
+  - Health
+  - Generalized Linear Modeling
 ---
 
 
