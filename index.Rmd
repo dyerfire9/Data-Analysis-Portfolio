@@ -6,11 +6,11 @@ color2: "#C66060"
 angle: 130
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/abdulmannancomp"
+    url: "https://www.linkedin.com/in/abdulmannancomp/"
   - label: Website
-    url: "http://individual.utoronto.ca/abdulmannan"
+    url: "http://individual.utoronto.ca/abdulmannan/"
   - label: Github
-    url: "https://github.com/dyerfire9"
+    url: "https://github.com/dyerfire9/"
   - label: Email
     url: "mailto:abdulmannancomp@gmail.com"
 output:
