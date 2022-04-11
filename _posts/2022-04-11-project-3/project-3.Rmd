@@ -8,7 +8,7 @@ description: |
   the analysis involved t-tests, various data wrangling techniques, 
   and generalized linear and mixed models. 
 author:
-  - name: Abdul Mannan
+  - name: Abdul Mannan, David Lundgren, Muhammet Rodin Karadeniz, Yugong Zhang
     url: {http://individual.utoronto.ca/abdulmannan/}
 date: 2022-04-11
 output:
