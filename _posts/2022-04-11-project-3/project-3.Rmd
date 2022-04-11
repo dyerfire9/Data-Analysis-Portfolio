@@ -1,0 +1,29 @@
+---
+title: "Marketing and Product Considerations for MINGAR"
+description: |
+  A statistical analysis project for a company that is facing issues with their
+  product. This is simulated project, where our consultancy, The Outliers was
+  approached by a company, MINGAR and they wanted to gain insight regarding
+  their current customer and some issues with their products. In this project,
+  the analysis involved t-tests, various data wrangling techniques, 
+  and generalized linaer and mixed models. 
+author:
+  - name: Abdul Mannan
+    url: {http://individual.utoronto.ca/abdulmannan/}
+date: 2022-04-11
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Environment
+  - Regression Analysis
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+<center style="color:#5A59A3">
+## [Click here to view the full article](https://github.com/dyerfire9/Marketing-and-Product-Considerations-for-MINGAR)
+</center>
+
